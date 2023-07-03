@@ -1,0 +1,11 @@
+C:\Users\ADRISZAM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ADRISZAM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADRISZAM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ADRISZAM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ADRISZAM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ADRISZAM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ADRISZAM\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SW501-Gestion De Ventas.exe.config
+C:\Users\ADRISZAM\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SW501-Gestion De Ventas.exe
+C:\Users\ADRISZAM\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SW501-Gestion De Ventas.pdb
+C:\Users\ADRISZAM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SW501-Gestion De Ventas.exe
+C:\Users\ADRISZAM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SW501-Gestion De Ventas.pdb

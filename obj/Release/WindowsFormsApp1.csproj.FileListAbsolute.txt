@@ -1,0 +1,2 @@
+C:\Users\ADRISZAM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\release\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ADRISZAM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\release\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
